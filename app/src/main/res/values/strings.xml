@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sun Spotter</string>
+    <string name="search_button">Find Sun!</string>
+    <string name="search_bar">Zip Code</string>
+    <string name="sun_true">There will be sun!</string>
+    <string name="sun_false">There is no sun!</string>
+    <string name="no_sun_time">Better luck next time!</string>
+</resources>
